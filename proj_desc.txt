@@ -1,1 +1,2 @@
-This is the first project on GitHub while I am learning Jenkins.
+This is the first project on GitHub while I am learning Jenkins. 
+Its really fun to work with Git.
